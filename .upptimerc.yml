@@ -4,12 +4,10 @@ repo: uptimes
 
 # Add your sites here
 sites:
-  - name: MAS SDK New
-    url: https://global-sdk-test.mas.yodo1.com/api/info
   - name: MAS SDK Development
     url: https://sdk.mas.yodo1.me/api/health_check
   - name: MAS SDK Production
-    url: https://sdk.mas.yodo1.com/v1/init/jMQ9rTKQDuF?country=AU
+    url: https://sdk.mas.yodo1.com/api/health_check
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
