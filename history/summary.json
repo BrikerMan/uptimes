@@ -4,7 +4,7 @@
     "url": "https://sdk.mas.yodo1.me/api/health_check",
     "icon": "https://favicons.githubusercontent.com/sdk.mas.yodo1.me",
     "slug": "mas-sdk-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 820,
     "timeDay": 808,
     "timeWeek": 977,
-    "timeMonth": 820,
+    "timeMonth": 822,
     "timeYear": 820,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 432,
     "timeDay": 232,
     "timeWeek": 138,
-    "timeMonth": 432,
+    "timeMonth": 423,
     "timeYear": 432,
     "dailyMinutesDown": {}
   }
