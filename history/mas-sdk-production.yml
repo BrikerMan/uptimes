@@ -1,7 +1,7 @@
 url: https://sdk.mas.yodo1.com/api/health_check
-status: up
-code: 200
-responseTime: 115
-lastUpdated: 2021-09-01T23:20:37.251Z
+status: down
+code: 404
+responseTime: 96
+lastUpdated: 2021-09-02T03:48:49.547Z
 startTime: Thu Mar 18 2021 15:13:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
