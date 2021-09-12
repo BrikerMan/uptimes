@@ -22,17 +22,17 @@
     "url": "https://sdk.mas.yodo1.com/api/health_check",
     "icon": "https://favicons.githubusercontent.com/sdk.mas.yodo1.com",
     "slug": "mas-sdk-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 85,
-    "timeWeek": 172,
-    "timeMonth": 181,
-    "timeYear": 235,
+    "time": 237,
+    "timeDay": 206,
+    "timeWeek": 198,
+    "timeMonth": 189,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   }
 ]
